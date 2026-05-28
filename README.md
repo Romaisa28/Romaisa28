@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Romaisa 👋</h1>
+<h1 align="center">Hi, I'm Romaisa</h1>
 
 <p align="center">
   🎓 BSE Student @ COMSATS University Islamabad &nbsp;|&nbsp; 📍 Pakistan
