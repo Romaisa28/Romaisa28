@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 About Me
+###👩‍💻 About Me
 - 🌱 Currently learning **Java** & **Discrete Structures**
 - 🔨 Building projects with **Object-Oriented Programming**
 - 📚 2nd semester Software Engineering student
